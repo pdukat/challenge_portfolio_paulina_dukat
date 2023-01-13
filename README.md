@@ -7,8 +7,6 @@ Hej! Wzięłam udział w chellange portfolio, bo szukam nowej ściezki kariery. 
 </p>
 Paulina
 
-
 PS. z pewnych źródeł wiem, że są w grupie Robaczki Midasa :wink:
-
 
 ## Subtask 4
