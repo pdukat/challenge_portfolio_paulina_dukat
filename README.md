@@ -16,5 +16,10 @@ W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie ni
 *liter i znaków specjanych w liczbie pow. 12 (prefix+numer) w polu numeru telefonu,
 *ujemnej wagi i ujemnego wzrostu, dane te mogą przekraczać trzyliczbową cyfrę, w tych polach można dodać również literę e, jednak przy próbie dodania zawodnika pojawia się odpowiedź ze strony aplikacji, aby wprowadzić liczbę
 *datę urodzenia można wpisać ręcznie z klawiatury, przy czym pole roku może być nawet 6cyfrową liczbą
-*pola poziom rozgrywek, główna pozycja i pozycja alternatywna powinny być moim zdaniem wybierane przez dropdown, licz
-Formularz nie wskazuje adresu e-mail jako pola koniecznego do wypełnienia, jednocześnie bez jego wypełnienia nie da się dodać nowego zawodnika 
+*pola poziom rozgrywek, główna pozycja i pozycja alternatywna powinny być moim zdaniem wybierane przez dropdown, liczba poziomów rozgrywek, podobnie jak liczba i rodzaje pozycji na boisku są ograniczone, pozostawienie wolnego pola pozwala na wpisywanie haseł nie mających odzwierciedlenia w rzeczywistości, np. znaków specjalnych 
+*w polu języki można wpisać hasło nie będące określeniem na język, to pole również powinno być moim zdaniem wybierane przez dropdown
+*hasło "łączy nas piłka" i "90 minut" są dla mnie niejasne, nie mam pewności o jaką informację chodzi
+*dodając link youtube można wpisać hasło nie będące adresem url 
+*Formularz nie wskazuje adresu e-mail jako pola koniecznego do wypełnienia, jednocześnie bez jego wypełnienia nie da się dodać nowego zawodnika 
+*pole adresu e-mail pozwala na dodanie hasła bez formatu adresu mailowego (bez @), jednocześnie bez jego prawidłowego formatu nie da się dodać nowego zawodnika, a formularz nie zwraca informacji użytkownikowi co jest nie tak w jego wypełnieniu 
+
