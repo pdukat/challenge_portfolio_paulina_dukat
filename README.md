@@ -22,4 +22,6 @@ W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie ni
 *dodając link youtube można wpisać hasło nie będące adresem url 
 *Formularz nie wskazuje adresu e-mail jako pola koniecznego do wypełnienia, jednocześnie bez jego wypełnienia nie da się dodać nowego zawodnika 
 *pole adresu e-mail pozwala na dodanie hasła bez formatu adresu mailowego (bez @), jednocześnie bez jego prawidłowego formatu nie da się dodać nowego zawodnika, a formularz nie zwraca informacji użytkownikowi co jest nie tak w jego wypełnieniu 
+Aplikacja jest w teorii dostępna w dwóch wersjach językowych - polskiej i angielskiej, jednak w polskiej wersji przeciski "submit" i "clear" nie są tłumaczone. 
+
 
