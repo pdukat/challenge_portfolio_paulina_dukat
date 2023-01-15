@@ -10,3 +10,11 @@ Paulina
 PS. z pewnych źródeł wiem, że są w grupie Robaczki Midasa :wink:
 
 ## Subtask 4
+
+W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie nieprawdziwych danych, tj. niemozliwych do spełnienia lub nic nie mówiących:
+*znaków specjalnych w polu imienia i nazwiska,
+*liter i znaków specjanych w liczbie pow. 12 (prefix+numer) w polu numeru telefonu,
+*ujemnej wagi i ujemnego wzrostu, dane te mogą przekraczać trzyliczbową cyfrę, w tych polach można dodać również literę e, jednak przy próbie dodania zawodnika pojawia się odpowiedź ze strony aplikacji, aby wprowadzić liczbę
+*datę urodzenia można wpisać ręcznie z klawiatury, przy czym pole roku może być nawet 6cyfrową liczbą
+*pola poziom rozgrywek, główna pozycja i pozycja alternatywna powinny być moim zdaniem wybierane przez dropdown, licz
+Formularz nie wskazuje adresu e-mail jako pola koniecznego do wypełnienia, jednocześnie bez jego wypełnienia nie da się dodać nowego zawodnika 
