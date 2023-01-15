@@ -18,7 +18,9 @@ Zakładka gracze oferuje najwięcej funkcji. Pojawia się pytanie, czy jej zawar
 Z poziomu zakładki Gracze użytkownik ma możliwość przeglądu dostępnych zawodników, pobrania i wydrukowania ich listy, przefiltrowania tabeli pod kątem imienia, nazwiska, wieku, pozycji, klubu i oceny zawodnika, a także zmiany wyglądu tabeli wskazując interesujące go kolumny oraz wyszukanie konkretnego zawodnika. 
 Wybór konkretnego gracza ujawnia w zakładkach kolejne funkcje aplikacji w postaci zakładek Mecze i Raporty. 
 Zakładka mecze umożliwia dodanie nowego meczu rozegranego przez zawodnika, przegląd meczy dodanych dotychczasowo, a także ich edycję i dodanie raportu.  
-Aplikacja jest dostosowana do urządzeń mobilnych. 
+
+
+Aplikacja jest dostosowana do urządzeń mobilnych. Nie umożliwia jednak porównywania do siebie zawodników, co z pewnością ułatwiłoby np. podjęcie decyzji o wyborze zawodnika na daną pozycję. 
 
 
 
