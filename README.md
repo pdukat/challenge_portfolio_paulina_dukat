@@ -56,7 +56,7 @@ Mecz, który po wprowadzeniu danych nie zostanie zapisany przez użytkownika, po
  
  ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/issues.JPG?raw=true)
 
-W zakładce raporty użytkownik ma możliwość przejrzeć i edytować raporty wygenerowane na podstawie poszczególnych meczów. Część danych potrzebnych do raportu jest automatycznie przetwarzana na podstawie wprowadzonych informacji z meczu, a część wymaga edycji, w postaci tekstowej, subiektywnej oceny zawodnika, do której służą proste edytory tekstu, dzięki którym można zmienić rodzaj i rozmiar czcionki, pogrubić tekst, podkreślić go, napisać kursywą, zacytować oraz wypunktować, a także cofnąć i powtórzyć ostatnie działanie. Edytor jest prosty i intuicyjny. </p> 
+<p align="justify"> W zakładce raporty użytkownik ma możliwość przejrzeć i edytować raporty wygenerowane na podstawie poszczególnych meczów. Część danych potrzebnych do raportu jest automatycznie przetwarzana na podstawie wprowadzonych informacji z meczu, a część wymaga edycji, w postaci tekstowej, subiektywnej oceny zawodnika, do której służą proste edytory tekstu, dzięki którym można zmienić rodzaj i rozmiar czcionki, pogrubić tekst, podkreślić go, napisać kursywą, zacytować oraz wypunktować, a także cofnąć i powtórzyć ostatnie działanie. Edytor jest prosty i intuicyjny. </p> 
 
 <p align="justify">
 Aplikacja jest dostosowana do urządzeń mobilnych. Nie umożliwia jednak porównywania do siebie zawodników, co z pewnością ułatwiłoby np. podjęcie decyzji o wyborze zawodnika na daną pozycję. Do ogólnej oceny zawodnika przydałaby się funkcja robienia raportu zbiorczego, na podstawie wszystkich rozegranych meczów.</p> 
