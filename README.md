@@ -29,7 +29,7 @@ W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie ni
 - dodając link youtube można wpisać hasło nie będące adresem url 
 - Formularz nie wskazuje adresu e-mail jako pola koniecznego do wypełnienia, jednocześnie bez jego wypełnienia nie da się dodać nowego zawodnika 
 
-<p align="justify"> Ponadto, pole adresu e-mail pozwala na dodanie hasła bez formatu adresu mailowego (bez @), jednocześnie bez jego prawidłowego formatu nie da się dodać nowego zawodnika, a formularz nie zwraca informacji użytkownikowi co jest nie tak w jego wypełnieniu.Devtoolsy zwracają nam informację o wystąpieniu błędu 500 - wewnętrznego błędu serwera. 
+<p align="justify"> Ponadto, pole adresu e-mail pozwala na dodwanie hasła w złym formacie. Po wpisaniu adresu e-mail w złym formacie (bez @) serwis nie pozwala na dodanie gracza, a formularz nie zwraca żadnej informacji wskazującej błędne miejsce.Devtoolsy zwracają nam informację o wystąpieniu błędu 500 - wewnętrznego błędu serwera. 
  
  ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/validemail.JPG?raw=true)
  
