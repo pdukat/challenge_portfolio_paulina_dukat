@@ -33,6 +33,8 @@ W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie ni
  
  ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/validemail.JPG?raw=true)
  
+ ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/validemail.JPG?raw=true)
+ 
 <p align="justify">
 Wybór konkretnego gracza ujawnia w zakładkach kolejne funkcje aplikacji w postaci zakładek Mecze i Raporty. 
 Zakładka mecze umożliwia dodanie nowego meczu rozegranego przez zawodnika, przegląd meczy dodanych dotychczasowo, a także ich edycję i dodanie raportu. 
