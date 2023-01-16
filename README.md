@@ -31,7 +31,7 @@ W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie ni
 
 <p align="justify"> Ponadto, pole adresu e-mail pozwala na dodanie hasła bez formatu adresu mailowego (bez @), jednocześnie bez jego prawidłowego formatu nie da się dodać nowego zawodnika, a formularz nie zwraca informacji użytkownikowi co jest nie tak w jego wypełnieniu.Devtoolsy zwracają nam informację o wystąpieniu błędu 500 - wewnętrznego błędu serwera. 
  
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+ ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/validemail.JPG?raw=true)
  
 <p align="justify">
 Wybór konkretnego gracza ujawnia w zakładkach kolejne funkcje aplikacji w postaci zakładek Mecze i Raporty. 
