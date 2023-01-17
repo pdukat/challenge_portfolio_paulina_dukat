@@ -19,7 +19,7 @@ Z poziomu głównego panelu aplikacji użytkownik ma możliwość dodać profil 
 Zakładka gracze oferuje najwięcej funkcji. Pojawia się pytanie, czy jej zawartość nie powinna być dostępna bezpośrednio z poziomu panelu głównego, tak aby wchodząc w aplikację użytkownik od początku nie miał wątpliwości do czego ona służy. Funkcja dodawania nowego zawodnika nie wydaje się najważniejszą w aplikacji, a własnie przegląd graczy i ich wyników. 
 Z poziomu zakładki Gracze użytkownik ma możliwość przeglądu dostępnych zawodników, pobrania i wydrukowania ich listy, przefiltrowania tabeli pod kątem imienia, nazwiska, wieku, pozycji, klubu i oceny zawodnika, a także zmiany wyglądu tabeli wskazując interesujące go kolumny oraz wyszukanie konkretnego zawodnika. Pobranie listy zawodników jest możliwe w formacie .csv, jednak część z danych w  tabeli nie wyświetla się prawidłowo. 
  
-[KLIK TABELA](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/321517830_698503938385027_501916212938117038_n.png)
+![KLIK TABELA](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/321517830_698503938385027_501916212938117038_n.png)
  
  W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie nieprawdziwych danych, tj. niemozliwych do spełnienia lub nic nie mówiących:</p> 
 
