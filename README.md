@@ -17,8 +17,11 @@ Aplikacja Scouts jest platformą skautingową służącą do zbierania i przedst
 Interfejs aplikacji chociaż nie składa się z wielu elementów to jest dość chaotyczny. Na pierwszy rzut oka użytkownika wybijają się statystyki, które po kliknięciu nie wywołują akcji – stanowią więc jedynie treść informacyjną. Zastanowić się można, czy skoro same w sobie nie stanowią żadnej funkcji to czy powinny zajmować czołowe miejsce na głównej stronie aplikacji. Nie można oprzeć się wrażeniu, że główny panel jest niejako pozbawiony treści – wszystko co aplikacja ma do zaoferowania jest ukryte w odnośnikach.
 Z poziomu głównego panelu aplikacji użytkownik ma możliwość dodać profil nowego gracza, skontaktować się z zespołem twórcow i sprawdzić ostatnie aktywności w aplikacji. Z tego poziomu dostępne są również 4 zakładki, za pomocą których użytkownik może wylogować się z aplikacji, zmienić/wybrać język wyświetlania strony na angielski lub polski, wrócić do strony głównej i przejść do listy graczy dostępnych w systemie. Główny panel jest prosty i intuicyjny, sprawia jednak wrażenie, że aplikacja jest mocno ograniczona i nie oferuje nam zbyt dużo funkcjonalności. Najważniejsza jej funkcja, czyli podgląd wyników zawodnika jest bowiem "ukryta" i o mozliwości wygenerowania raportu uzytkownik dowiaduje się dopiero po wybraniu konkretnego zawodnika.  
 Zakładka gracze oferuje najwięcej funkcji. Pojawia się pytanie, czy jej zawartość nie powinna być dostępna bezpośrednio z poziomu panelu głównego, tak aby wchodząc w aplikację użytkownik od początku nie miał wątpliwości do czego ona służy. Funkcja dodawania nowego zawodnika nie wydaje się najważniejszą w aplikacji, a własnie przegląd graczy i ich wyników. 
-Z poziomu zakładki Gracze użytkownik ma możliwość przeglądu dostępnych zawodników, pobrania i wydrukowania ich listy, przefiltrowania tabeli pod kątem imienia, nazwiska, wieku, pozycji, klubu i oceny zawodnika, a także zmiany wyglądu tabeli wskazując interesujące go kolumny oraz wyszukanie konkretnego zawodnika. 
-W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie nieprawdziwych danych, tj. niemozliwych do spełnienia lub nic nie mówiących:</p> 
+Z poziomu zakładki Gracze użytkownik ma możliwość przeglądu dostępnych zawodników, pobrania i wydrukowania ich listy, przefiltrowania tabeli pod kątem imienia, nazwiska, wieku, pozycji, klubu i oceny zawodnika, a także zmiany wyglądu tabeli wskazując interesujące go kolumny oraz wyszukanie konkretnego zawodnika. Pobranie listy zawodników jest możliwe w formacie .csv, jednak część z danych w  tabeli nie wyświetla się prawidłowo. 
+ 
+[KLIK TABELA](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/321517830_698503938385027_501916212938117038_n.png)
+ 
+ W panelu dodaj gracza formularz dodawania nowego zawodnika pozwala na podanie nieprawdziwych danych, tj. niemozliwych do spełnienia lub nic nie mówiących:</p> 
 
 - znaków specjalnych w polu imienia i nazwiska,
 - liter i znaków specjanych w liczbie pow. 12 (prefix+numer) w polu numeru telefonu,
@@ -65,7 +68,6 @@ Aplikacja jest w teorii dostępna w dwóch wersjach językowych - polskiej i ang
 
 Raport końcowy przeprowadzony za pomocą narzędzia Lighthouse ujawnił jeszcze kilka dodatkowych błędów w wyświetlaniu strony. 
 [LINK DO RAPORTU](https://htmlpreview.github.io/?https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/scouts-test.futbolkolektyw.pl-20230116T223219.html)
-
 
 
 
