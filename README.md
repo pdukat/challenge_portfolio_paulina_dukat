@@ -63,7 +63,7 @@ Aplikacja jest dostosowana do urządzeń mobilnych. Nie umożliwia jednak porów
 <p align="justify">
 Aplikacja jest w teorii dostępna w dwóch wersjach językowych - polskiej i angielskiej, jednak w polskiej wersji nie wszystkie pola są przetłumaczone, np. przeciski "submit" i "clear", pola "Web match" i "General" w formularzu dodawania meczu, przyciski "download CSV", "print", "view columns", "filter table" w zakładce gracze, czy opisy przycisów w edytowanym raporcie. </p>   
 
-Raport końcowy przeprowadzony za pomocą funkcji Lighthouse ujawnił jeszcze kilka dodatkowych błędów. 
+Raport końcowy przeprowadzony za pomocą narzędzia Lighthouse ujawnił jeszcze kilka dodatkowych błędów w wyświetlaniu strony. 
 [LINK DO RAPORTU](https://htmlpreview.github.io/?https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/scouts-test.futbolkolektyw.pl-20230116T223219.html)
 
 
