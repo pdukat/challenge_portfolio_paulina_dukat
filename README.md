@@ -35,9 +35,9 @@ Z poziomu zakładki Gracze użytkownik ma możliwość przeglądu dostępnych za
 
 <p align="justify"> Ponadto, pole adresu e-mail pozwala na dodwanie hasła w złym formacie. Po wpisaniu adresu e-mail w złym formacie (bez @) serwis nie pozwala na dodanie gracza, a formularz nie zwraca żadnej informacji wskazującej błędne miejsce.Devtoolsy zwracają nam informację o wystąpieniu błędu 500 - wewnętrznego błędu serwera. 
  
- ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/validemail.JPG?raw=true)
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/main/validemail.JPG?raw=true)
  
- ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/internalservererror.jpg.JPG?raw=true)
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/main/internalservererror.jpg.JPG?raw=true)
  
 <p align="justify">
 Wybór konkretnego gracza ujawnia w zakładkach kolejne funkcje aplikacji w postaci zakładek Mecze i Raporty. 
@@ -53,11 +53,11 @@ Zakładka mecze umożliwia dodanie nowego meczu rozegranego przez zawodnika, prz
 <p align="justify"> Raport dotyczący występu i wyników zawodnika w poszczególnym meczu jest generowany na podstawie przebiegu meczu wprowadzonego za pomocą akcji „rozpocznij mecz”. Tam, w czasie rzeczywistym trwania meczu użytkownik wprowadza dane związane z występem zawodnika podczas przebiegu gry, ze wskazaniem miejsca na boisku, w którym zdarzenie wystąpiło. Funkcja ta jest jednak nieintuicyjna, dostępne w górnej części panelu przyciski nie są opisane, w związku z czym użytkownik musi kliknąć każdy z nich, celem sprawdzenia co wywołuje. Brakuje też możliwości przejścia do konkretnej minuty meczu lub przyspieszenia czasu. W obecnej formie użytkownik wprowadzając dane np. bramkarza, który w czasie trwania meczu nie ma tak częstego kontaktu z piłką jak pozostali zawodnicy, musi czekać bezczynnie aż upłynie czas do konkretnego zdarzenia z udziałem zawodnika, co wydaje się być na dłuższą metę frustrujące. Inną kwestią jest brak możliwości wyboru wszystkich możliwych zdarzeń, np. przewidzianych typowo dla bramkarza, jak obrona strzału na bramkę lub jej brak.
 Mecz, który po wprowadzeniu danych nie zostanie zapisany przez użytkownika, pojawia się na stronie głównej z odnośnikiem powrotu do raportu, jednak przycisk ten nie wywołuje żadnej akcji.
 
- ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/validraport.JPG?raw=true)
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/main/validraport.JPG?raw=true)
  
  Ponadto, w tym samym momencie w zakładce issues pojawiają się dwa błędy związane z brakiem wsparcia aplikacji na niektórych przeglądarkach. 
  
- ![alt text](https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/issues.JPG?raw=true)
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/main/issues.JPG?raw=true)
 
 <p align="justify"> W zakładce raporty użytkownik ma możliwość przejrzeć i edytować raporty wygenerowane na podstawie poszczególnych meczów. Część danych potrzebnych do raportu jest automatycznie przetwarzana na podstawie wprowadzonych informacji z meczu, a część wymaga edycji, w postaci tekstowej, subiektywnej oceny zawodnika, do której służą proste edytory tekstu, dzięki którym można zmienić rodzaj i rozmiar czcionki, pogrubić tekst, podkreślić go, napisać kursywą, zacytować oraz wypunktować, a także cofnąć i powtórzyć ostatnie działanie. Edytor jest prosty i intuicyjny. </p> 
 
@@ -67,7 +67,7 @@ Aplikacja jest dostosowana do urządzeń mobilnych. Nie umożliwia jednak porów
 Aplikacja jest w teorii dostępna w dwóch wersjach językowych - polskiej i angielskiej, jednak w polskiej wersji nie wszystkie pola są przetłumaczone, np. przeciski "submit" i "clear", pola "Web match" i "General" w formularzu dodawania meczu, przyciski "download CSV", "print", "view columns", "filter table" w zakładce gracze, czy opisy przycisów w edytowanym raporcie. </p>   
 
 Raport końcowy przeprowadzony za pomocą narzędzia Lighthouse ujawnił jeszcze kilka dodatkowych błędów w wyświetlaniu strony. 
-[LINK DO RAPORTU](https://htmlpreview.github.io/?https://github.com/pdukat/chellange_portfolio_paulina_dukat/blob/main/scouts-test.futbolkolektyw.pl-20230116T223219.html)
+[LINK DO RAPORTU](https://htmlpreview.github.io/?https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/main/scouts-test.futbolkolektyw.pl-20230116T223219.html)
 
 
 
