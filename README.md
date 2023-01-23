@@ -70,7 +70,7 @@ Raport końcowy przeprowadzony za pomocą narzędzia Lighthouse ujawnił jeszcze
 [LINK DO RAPORTU](https://htmlpreview.github.io/?https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/main/scouts-test.futbolkolektyw.pl-20230116T223219.html)
 
 # TASK 2
-## Subtask 
+## Subtask 3
 Po co piszemy przypadki testowe?
 
 <p align="justify"> Przypadki testowe piszemy, aby sprawdzić działanie poszczególnych funkcjonalności testowanej aplikacji. Ich tworzenie pozwala na dokładne przetestowanie modułów aplikacji i przejrzyste przedstawienie błędów, z którymi może się spotkać potencjalny użytkownik aplikacji, w celu ich naprawy. Im większe pokrycie przypadkami testowymi aplikacji, tym mniejsze prawdopodobieństwo, że któraś z ważnych funkcojalności nie będzie działała poprawnie. Za pomocą przypadków testowych sprawdzimy również, czy aplikacja jest zgodna z wymaganiami klienta.  </p>
