@@ -70,6 +70,14 @@ Raport końcowy przeprowadzony za pomocą narzędzia Lighthouse ujawnił jeszcze
 [LINK DO RAPORTU](https://htmlpreview.github.io/?https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/main/scouts-test.futbolkolektyw.pl-20230116T223219.html)
 
 # TASK 2
+## Subtask 1
+
+[PRZYPADKI TESTOWE NA PODSTAWIE USER STORY](https://docs.google.com/spreadsheets/d/1a5CcZHkxXNOqsvOUn6t_iRNmutyI7MzRRGe3EFDpcL8/edit?usp=sharing)
+
+## Subtask 2
+
+[PRZYPADKI TESTOWE NA PODSTAWIE WŁASNYCH DOŚWIADCZEŃ](https://docs.google.com/spreadsheets/d/1aJdtGjX23EDbuMYZd0WxBgJFTEXd28ce26LJ-b-C8TA/edit?usp=sharing)
+
 ## Subtask 3
 Po co piszemy przypadki testowe?
 
