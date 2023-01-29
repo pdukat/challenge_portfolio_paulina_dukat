@@ -83,3 +83,18 @@ Po co piszemy przypadki testowe?
 
 <p align="justify"> Przypadki testowe piszemy, aby sprawdzić działanie poszczególnych funkcjonalności testowanej aplikacji. Ich tworzenie pozwala na dokładne przetestowanie modułów aplikacji i przejrzyste przedstawienie błędów, z którymi może się spotkać potencjalny użytkownik aplikacji, w celu ich naprawy. Im większe pokrycie przypadkami testowymi aplikacji, tym mniejsze prawdopodobieństwo, że któraś z ważnych funkcojalności nie będzie działała poprawnie. Za pomocą przypadków testowych sprawdzimy również, czy aplikacja jest zgodna z wymaganiami klienta.  </p>
 
+# TASK 3
+## Subtask 2
+
+[TESTY WYKONANE WEDŁUG PLANÓW TESTÓW (TASK 2 SUBTASK 1)](https://docs.google.com/spreadsheets/d/1a5CcZHkxXNOqsvOUn6t_iRNmutyI7MzRRGe3EFDpcL8/edit?usp=sharingg)
+
+[TESTY WYKONANE WEDŁUG PLANÓW TESTÓW (TASK 2 SUBTASK 2)](https://docs.google.com/spreadsheets/d/1aJdtGjX23EDbuMYZd0WxBgJFTEXd28ce26LJ-b-C8TA/edit?usp=sharing)
+
+[ZBIORCZY RAPORT BŁĘDÓW](https://docs.google.com/document/d/1_U7dRavMEPdXdpny39uX4DJAGWdXxh4b-h3_sWoV1Ys/edit?usp=sharing)
+
+## Subtask 3
+
+[RAPORT Z WYKONANYCH TESTÓW](https://docs.google.com/document/d/1TaioT1y4r_8HDZ-dIuCcO-L8V7ME7-nrGjqKv2-8GDk/edit?usp=sharing)
+
+## Subtask 4
+
