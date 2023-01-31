@@ -98,3 +98,4 @@ Po co piszemy przypadki testowe?
 
 ## Subtask 4
 
+[TESTY EKSPLORACYJNE](https://docs.google.com/document/d/1leQafjG6w0TSUu7WEOSyP8hLsCNmrESgDq1Onno0lvg/edit?usp=sharing)
