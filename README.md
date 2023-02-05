@@ -99,3 +99,21 @@ Po co piszemy przypadki testowe?
 ## Subtask 4
 
 [TESTY EKSPLORACYJNE](https://docs.google.com/document/d/1leQafjG6w0TSUu7WEOSyP8hLsCNmrESgDq1Onno0lvg/edit?usp=sharing)
+
+# TASK 4
+## Subtask 2
+
+[OLX - TESTY EKSPLORACYJNE](https://docs.google.com/document/d/1CbSJ_kc7yGvm1VZ1YadWKeoKIE1_lpKVclB15Zu2AEI/edit?usp=sharing)
+
+## Subtask 3
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+
+Aplikacja OLX służy do 
+
+3. Kto ma być użytkownikiem końcowym aplikacji?
+4. Czy według Ciebie aplikacja jest user friendly?
+5. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+6. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+
+
+
