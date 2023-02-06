@@ -107,13 +107,22 @@ Po co piszemy przypadki testowe?
 
 ## Subtask 3
 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+Aplikacja OLX jest platformą ogłoszeniową skupiającą przede wszystkim oferty kupna-sprzedaży produktów lub usług. Umożliwia każdemu użytkownikowi - także osobom nie prowadzącym działalności gospodarczej - zarówno sprzedaż produktów jak i ich swobodne kupno, jednocześnie pośrednicząc w tym procesie. 
 
-Aplikacja OLX służy do 
+2. Kto ma być użytkownikiem końcowym aplikacji?
+Użytkownikiem końcowym aplikacji jest zarówno ogłoszeniodawca (np. sprzedawca czy pracodawca) jak i korzystający z ogłoszenia (jak kupujący czy korzystający z usług).
 
-3. Kto ma być użytkownikiem końcowym aplikacji?
-4. Czy według Ciebie aplikacja jest user friendly?
-5. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
-6. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+3. Czy według Ciebie aplikacja jest user friendly?
+Aplikacja w ogólnym odbiorze jest przyjazna dla użytkownika, szczególnie kupującego. Szybko się ładuje, ma prosty panel do wyboru kategorii, który raczej nie pozwala się zgubić. 
+
+4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
+W mojej opinii przydałaby się możliwość wyboru podkategorii w kategorii “oddam za darmo”, żeby użytkownik mógł przejrzeć np. tylko przedmioty związane z ogrodem, nie scrollując jednocześnie nie interesujących go ofert z innych kategorii. 
+
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+- aplikację internetową można z łatwością przetestować tylko na jednym urządzeniu, podczas gdy aplikacja natywna wymaga korzystania z wielu urządzeń;
+- testując aplikację internetową mamy możliwość korzystania z pomocy - devtoolsów, dzięki którym jesteśmy w stanie sprawdzić co powoduje błąd, testując aplikację natywną nie możemy skorzystać z takiej podpowiedzi”;
+- testowanie aplikacji internetowej nie wymaga pobrania jej na urządzenie, podczas gdy aplikacji natywnej nie da się przetestować bez jej pobrania i zainstalowania 
+- testowanie aplikacji internetowej zawsze wymaga dostępu do internetu, podczas gdy w wielu przypadkach aplikacji natywnych nie jest to konieczne
 
 
 
