@@ -108,7 +108,7 @@ Po co piszemy przypadki testowe?
 ## Subtask 3
 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
-Aplikacja OLX jest platformą ogłoszeniową skupiającą przede wszystkim oferty kupna-sprzedaży produktów lub usług. Umożliwia każdemu użytkownikowi - także osobom nie prowadzącym działalności gospodarczej - zarówno sprzedaż produktów jak i ich swobodne kupno, jednocześnie pośrednicząc w tym procesie. 
+<p align="justify"> Aplikacja OLX jest platformą ogłoszeniową skupiającą przede wszystkim oferty kupna-sprzedaży produktów lub usług. Umożliwia każdemu użytkownikowi - także osobom nie prowadzącym działalności gospodarczej - zarówno sprzedaż produktów jak i ich swobodne kupno, jednocześnie pośrednicząc w tym procesie. </p>
 
 2. Kto ma być użytkownikiem końcowym aplikacji?
 
@@ -116,11 +116,11 @@ Użytkownikiem końcowym aplikacji jest zarówno ogłoszeniodawca (np. sprzedawc
 
 3. Czy według Ciebie aplikacja jest user friendly?
 
-Aplikacja w ogólnym odbiorze jest przyjazna dla użytkownika, szczególnie kupującego. Szybko się ładuje, ma prosty panel do wyboru kategorii, który raczej nie pozwala się zgubić. 
+<p align="justify"> Aplikacja w ogólnym odbiorze jest przyjazna dla użytkownika, szczególnie kupującego. Szybko się ładuje, ma prosty panel do wyboru kategorii, który raczej nie pozwala się zgubić. </p>
 
 4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? 
 
-W mojej opinii przydałaby się możliwość wyboru podkategorii w kategorii “oddam za darmo”, żeby użytkownik mógł przejrzeć np. tylko przedmioty związane z ogrodem, nie scrollując jednocześnie nie interesujących go ofert z innych kategorii. Natomiast wśród obserwowanych ogłoszeń brakuje opcji "usuń wszystkie", umożliwiającego szybkie usunięcie wszystkich obserwowoanych ogłoszeń. 
+<p align="justify"> W mojej opinii przydałaby się możliwość wyboru podkategorii w kategorii “oddam za darmo”, żeby użytkownik mógł przejrzeć np. tylko przedmioty związane z ogrodem, nie scrollując jednocześnie nie interesujących go ofert z innych kategorii. Natomiast wśród obserwowanych ogłoszeń brakuje opcji "usuń wszystkie", umożliwiającego szybkie usunięcie wszystkich obserwowoanych ogłoszeń. </p>
 
 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 - aplikację internetową można z łatwością przetestować tylko na jednym urządzeniu, podczas gdy aplikacja natywna wymaga korzystania z wielu urządzeń;
