@@ -69,6 +69,8 @@ Aplikacja jest w teorii dostępna w dwóch wersjach językowych - polskiej i ang
 Raport końcowy przeprowadzony za pomocą narzędzia Lighthouse ujawnił jeszcze kilka dodatkowych błędów w wyświetlaniu strony. 
 [LINK DO RAPORTU](https://htmlpreview.github.io/?https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/main/scouts-test.futbolkolektyw.pl-20230116T223219.html)
 
+***
+
 # TASK 2
 ## Subtask 1
 
@@ -82,6 +84,8 @@ Raport końcowy przeprowadzony za pomocą narzędzia Lighthouse ujawnił jeszcze
 Po co piszemy przypadki testowe?
 
 <p align="justify"> Przypadki testowe piszemy, aby sprawdzić działanie poszczególnych funkcjonalności testowanej aplikacji. Ich tworzenie pozwala na dokładne przetestowanie modułów aplikacji i przejrzyste przedstawienie błędów, z którymi może się spotkać potencjalny użytkownik aplikacji, w celu ich naprawy. Im większe pokrycie przypadkami testowymi aplikacji, tym mniejsze prawdopodobieństwo, że któraś z ważnych funkcojalności nie będzie działała poprawnie. Za pomocą przypadków testowych sprawdzimy również, czy aplikacja jest zgodna z wymaganiami klienta.  </p>
+
+***
 
 # TASK 3
 ## Subtask 2
@@ -99,6 +103,8 @@ Po co piszemy przypadki testowe?
 ## Subtask 4
 
 [TESTY EKSPLORACYJNE](https://docs.google.com/document/d/1leQafjG6w0TSUu7WEOSyP8hLsCNmrESgDq1Onno0lvg/edit?usp=sharing)
+
+***
 
 # TASK 4
 ## Subtask 2
@@ -127,6 +133,8 @@ Użytkownikiem końcowym aplikacji jest zarówno ogłoszeniodawca (np. sprzedawc
 - testując aplikację internetową mamy możliwość korzystania z pomocy - devtoolsów, dzięki którym jesteśmy w stanie sprawdzić co powoduje błąd, testując aplikację natywną nie możemy skorzystać z takiej podpowiedzi”;
 - testowanie aplikacji internetowej nie wymaga pobrania jej na urządzenie, podczas gdy aplikacji natywnej nie da się przetestować bez jej pobrania i zainstalowania 
 - testowanie aplikacji internetowej zawsze wymaga dostępu do internetu, podczas gdy w wielu przypadkach aplikacji natywnych nie jest to konieczne
+
+***
 
 # TASK 5
 ## Subtask 1
