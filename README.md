@@ -1,10 +1,13 @@
-# TASK 1
-## Subtask 2
+# CHALLENGE PORTFOLIO PAULINA DUKAT
+
+##TASK 1
+
+### Subtask 2
 Liczba punktów z testu:
 
 ![](https://media.giphy.com/media/FQpmX52vDfhja/giphy.gif)
 
-## Subtask 3
+### Subtask 3
 <p align="justify">
 Hej! Wzięłam udział w chellange portfolio, bo szukam nowej ściezki kariery. Dzięki temu projektowi mam nadzieję przekonać się czy testowanie jest dla mnie (i czy jestem jeszcze w stanie się czegoś nauczyć :laughing:). A tak całkiem na poważnie, chciałabym zmienić branżę i liczę, że kurs da mi dobre podstawy do dalszego zgłębiania tajników testowania. W planach na ten rok mam znalezienie pracy w IT. 
 </p>
@@ -12,7 +15,7 @@ Paulina
 
 PS. z pewnych źródeł wiem, że są w grupie Robaczki Midasa :wink:
 
-## Subtask 4
+### Subtask 4
 <p align="justify">
 Aplikacja Scouts jest platformą skautingową służącą do zbierania i przedstawiania danych o zawodnikach piłkarskich. Pozwala na stworzenie indywidualnych profili graczy i przedstawienie ich występów w poszczególnych meczach. Umożliwia bardzo dokładne prześledzenie gry zawodnika w poszczególnym meczu i przedstawienie jego wyników w zbiorczym raporcie. 
 
@@ -74,24 +77,24 @@ Raport końcowy przeprowadzony za pomocą narzędzia Lighthouse ujawnił jeszcze
 
 ***
 
-# TASK 2
-## Subtask 1
+## TASK 2
+### Subtask 1
 
 [PRZYPADKI TESTOWE NA PODSTAWIE USER STORY](https://docs.google.com/spreadsheets/d/1a5CcZHkxXNOqsvOUn6t_iRNmutyI7MzRRGe3EFDpcL8/edit?usp=sharing)
 
-## Subtask 2
+### Subtask 2
 
 [PRZYPADKI TESTOWE NA PODSTAWIE WŁASNYCH DOŚWIADCZEŃ](https://docs.google.com/spreadsheets/d/1aJdtGjX23EDbuMYZd0WxBgJFTEXd28ce26LJ-b-C8TA/edit?usp=sharing)
 
-## Subtask 3
+### Subtask 3
 Po co piszemy przypadki testowe?
 
 <p align="justify"> Przypadki testowe piszemy, aby sprawdzić działanie poszczególnych funkcjonalności testowanej aplikacji. Ich tworzenie pozwala na dokładne przetestowanie modułów aplikacji i przejrzyste przedstawienie błędów, z którymi może się spotkać potencjalny użytkownik aplikacji, w celu ich naprawy. Im większe pokrycie przypadkami testowymi aplikacji, tym mniejsze prawdopodobieństwo, że któraś z ważnych funkcojalności nie będzie działała poprawnie. Za pomocą przypadków testowych sprawdzimy również, czy aplikacja jest zgodna z wymaganiami klienta.  </p>
 
 ***
 
-# TASK 3
-## Subtask 2
+## TASK 3
+### Subtask 2
 
 [TESTY WYKONANE WEDŁUG PLANÓW TESTÓW (TASK 2 SUBTASK 1)](https://docs.google.com/spreadsheets/d/1a5CcZHkxXNOqsvOUn6t_iRNmutyI7MzRRGe3EFDpcL8/edit?usp=sharingg)
 
@@ -99,22 +102,22 @@ Po co piszemy przypadki testowe?
 
 [ZBIORCZY RAPORT BŁĘDÓW](https://docs.google.com/document/d/1_U7dRavMEPdXdpny39uX4DJAGWdXxh4b-h3_sWoV1Ys/edit?usp=sharing)
 
-## Subtask 3
+### Subtask 3
 
 [RAPORT Z WYKONANYCH TESTÓW](https://docs.google.com/document/d/1TaioT1y4r_8HDZ-dIuCcO-L8V7ME7-nrGjqKv2-8GDk/edit?usp=sharing)
 
-## Subtask 4
+### Subtask 4
 
 [TESTY EKSPLORACYJNE](https://docs.google.com/document/d/1leQafjG6w0TSUu7WEOSyP8hLsCNmrESgDq1Onno0lvg/edit?usp=sharing)
 
 ***
 
-# TASK 4
-## Subtask 2
+## TASK 4
+### Subtask 2
 
 [OLX - TESTY EKSPLORACYJNE](https://docs.google.com/document/d/1CbSJ_kc7yGvm1VZ1YadWKeoKIE1_lpKVclB15Zu2AEI/edit?usp=sharing)
 
-## Subtask 3
+### Subtask 3
 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 
 <p align="justify"> Aplikacja OLX jest platformą ogłoszeniową skupiającą przede wszystkim oferty kupna-sprzedaży produktów lub usług. Umożliwia każdemu użytkownikowi - także osobom nie prowadzącym działalności gospodarczej - zarówno sprzedaż produktów jak i ich swobodne kupno, jednocześnie pośrednicząc w tym procesie. </p>
@@ -139,8 +142,8 @@ Użytkownikiem końcowym aplikacji jest zarówno ogłoszeniodawca (np. sprzedawc
 
 ***
 
-# TASK 5
-## Subtask 1
+## TASK 5
+### Subtask 1
 
 **Struktura podstawowych poleceń w SQL**
 
@@ -181,7 +184,7 @@ LIKE – zwraca wartości podobne do postawionego warunku, czyli pasujące do po
 OR – wprowadza składnię „lub” do zapytania, zwracane rekordy muszą spełniać przynajmniej jeden z określonych przez użytkownika warunków
 
 
-## Subtask 2
+### Subtask 2
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
 
 select * from actors order by surname
