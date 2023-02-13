@@ -131,6 +131,44 @@ Użytkownikiem końcowym aplikacji jest zarówno ogłoszeniodawca (np. sprzedawc
 # TASK 5
 ## Subtask 1
 
+**Struktura podstawowych poleceń w SQL**
+
+SELECT - określanie kształtu wyniku np. nazwa kolumny
+
+FROM - określenie źródła, np. nazwa tabeli
+
+WHERE - filtracja rekordów
+
+GROUP BY - grupowanie rekordów
+
+HAVING - filtrowanie grup
+
+ORDER BY - sortowanie wyniku
+
+ 
+**Podstawowe operatory porównania w SQL**
+
+'=' zwraca wartości równe określonym w zapytaniu
+
+'>' zwraca wartości większe od określonych w zapytaniu
+
+'<' zwraca wartości mniejsze od określonych w zapytaniu
+
+ 
+**Podstawowe operatory logiczne w SQL**
+
+AND – wprowadza składnię „i” do zapytania, zwracane rekordy muszą spełniać jednocześnie wszystkie warunki określone przez użytkownika
+
+BETWEEN – wprowadza składnie „pomiędzy” do zapytania, zwracane rekordy znajdują się w określonym przedziale wartości
+
+IN – zwraca określone przez użytkownika wartości, jeśli znajdują się w wybranym zbiorze
+
+NOT – zwraca wartość odwrotną do użytych warunków
+
+LIKE – zwraca wartości podobne do postawionego warunku, czyli pasujące do podanego formatu
+
+OR – wprowadza składnię „lub” do zapytania, zwracane rekordy muszą spełniać przynajmniej jeden z określonych przez użytkownika warunków
+
 
 ## Subtask 2
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
