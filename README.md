@@ -136,48 +136,56 @@ Użytkownikiem końcowym aplikacji jest zarówno ogłoszeniodawca (np. sprzedawc
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
 select * from actors order by surname
-
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/T5_1.JPG)
 
 2. Wyświetl film, który powstał w 2019 roku.
 
 select * from movies where year_of_production = 2019
-
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/t5_2.JPG)
 
 3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
 
 select * from movies where year_of_production between 1900 and 1999
-
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/T5_3.JPG)
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
 
 select title, price from movies where price <7
-
+ 
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/T5_4.JPG)
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 
 select * from actors where actor_id = 4 or actor_id = 5 or actor_id = 6 or actor_id = 7
 
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/T5_5.JPG)
 
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 
 SELECT * FROM customers WHERE customer_id = 2 or customer_id=4 or customer_id=6
 
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/t5_6.JPG)
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 
 SELECT * FROM customer` WHERE customer_id IN (1, 3, 5)
-
+ 
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/t5_7.JPG)
 
 8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 
 SELECT * FROM actors WHERE name like 'An%'
 
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/t5_8.JPG)
 
 9. Wyświetl dane klienta, który nie ma podanego adresu email.
 
 SELECT * FROM customers WHERE email is NULL
 
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/t5_9.JPG)
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
 
 SELECT * from movies where price >9 and movie_id between 2 and 8
+ 
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/t5_10.JPG)
