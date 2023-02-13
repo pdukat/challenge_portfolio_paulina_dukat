@@ -1,7 +1,6 @@
 # CHALLENGE PORTFOLIO PAULINA DUKAT
 
-##TASK 1
-
+## TASK 1
 ### Subtask 2
 Liczba punktów z testu:
 
