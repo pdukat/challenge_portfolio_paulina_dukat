@@ -292,7 +292,7 @@ SELECT * from movies where price >9 and movie_id between 2 and 8
 
 **18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $.**
 
-
+Update movies set price = price + 2.5
 
 ![alt text]()
 
