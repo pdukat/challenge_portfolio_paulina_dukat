@@ -251,19 +251,19 @@ SELECT * from movies where price >9 and movie_id between 2 and 8
 
 **11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd.**
 
-
+update customers set surname = "Miler" where customer_id = '3'
 
 ![alt text]()
 
 **12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila.**
 
-
+SELECT sale.movie_id, customers.name, customers.email FROM sale INNER JOIN customers on sale.customer_id=customers.customer_id WHERE sale.movie_id = "4"
  
  ![alt text]()
 
 **13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com.**
 
-
+update customers set email = "pati@mail.com" where customer_id = '4'
  
  ![alt text]()
 
@@ -298,7 +298,7 @@ Update movies set price = price + 2.5
 
 **19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.**
 
-
+SELECT actors.actor_id, actors.name, actors.surname, movies.title FROM actors, movies, cast WHERE movies.movie_id = cast.movie_id and actors.actor_id = "4" and cast.actor_id=actors.actor_id
 
 ![alt text]()
 
