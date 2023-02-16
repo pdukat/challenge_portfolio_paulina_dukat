@@ -243,3 +243,67 @@ SELECT * FROM customers WHERE email is NULL
 SELECT * from movies where price >9 and movie_id between 2 and 8
  
  ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/2eebde2b7ff9aec75e3610e494a40d721118d36f/t5_10.JPG)
+
+***
+
+## TASK 6
+### Subtask 1
+
+**11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd.**
+
+
+
+![alt text]()
+
+**12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila.**
+
+
+ 
+ ![alt text]()
+
+**13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com.**
+
+
+ 
+ ![alt text]()
+
+**14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**
+
+
+ 
+ ![alt text]()
+
+**15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.**
+
+
+
+![alt text]()
+
+**16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały..**
+
+
+![alt text]()
+
+**17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION).**
+
+
+ 
+ ![alt text]()
+
+**18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $.**
+
+
+
+![alt text]()
+
+**19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.**
+
+
+
+![alt text]()
+
+**20. Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa.**
+
+
+ 
+ ![alt text]()
