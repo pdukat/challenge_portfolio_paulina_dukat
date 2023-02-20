@@ -287,6 +287,7 @@ UPDATE customers set pseudonim = 'Nag' WHERE customer_id = 6;
 
 **16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały..**
 
+SELECT DISTINCT movies.title FROM movies INNER JOIN sale on sale.movie_id=movies.movie_id;
 
 ![alt text]()
 
