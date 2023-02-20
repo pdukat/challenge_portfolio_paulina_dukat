@@ -253,59 +253,59 @@ SELECT * from movies where price >9 and movie_id between 2 and 8
 
 update customers set surname = "Miler" where customer_id = '3'
 
-![alt text]()
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_11.JPG)
 
 **12. Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila.**
 
 SELECT sale.movie_id, customers.name, customers.email FROM sale INNER JOIN customers on sale.customer_id=customers.customer_id WHERE sale.movie_id = "4"
  
- ![alt text]()
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_12.JPG)
 
 **13. Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com.**
 
 update customers set email = "pati@mail.com" where customer_id = '4'
  
- ![alt text]()
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_13.JPG)
 
 **14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**
 
 SELECT customers.name, customers.surname, movies.title FROM sale INNER JOIN customers on sale.customer_id=customers.customer_id INNER JOIN movies ON movies.movie_id=sale.movie_id
  
- ![alt text]()
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_14.JPG)
 
 **15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.**
 
 ALTER TABLE customers ADD COLUMN pseudonim varchar(3);
 UPDATE customers set pseudonim = concat(LEFT(name, 2), RIGHT(surname, 1)) 
 
-![alt text]()
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_15.JPG)
 
 **16. Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały..**
 
 SELECT DISTINCT movies.title FROM movies INNER JOIN sale on sale.movie_id=movies.movie_id;
 
-![alt text]()
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_16.JPG)
 
 **17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION).**
 
 SELECT name FROM actors UNION SELECT name FROM customers ORDER BY name;
  
- ![alt text]()
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_17.JPG)
 
 **18. Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $.**
 
 Update movies set price = price + 2.5
 
-![alt text]()
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_18.JPG)
 
 **19. Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał.**
 
 SELECT actors.actor_id, actors.name, actors.surname, movies.title FROM actors, movies, cast WHERE movies.movie_id = cast.movie_id and actors.actor_id = "4" and cast.actor_id=actors.actor_id
 
-![alt text]()
+![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_19.JPG)
 
 **20. Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa.**
 
 INSERT INTO customers (customer_id, name, surname, email, pseudonim) VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
  
- ![alt text]()
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_20.JPG)
