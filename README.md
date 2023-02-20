@@ -293,7 +293,7 @@ SELECT DISTINCT movies.title FROM movies INNER JOIN sale on sale.movie_id=movies
 
 **17. Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION).**
 
-
+SELECT name FROM actors UNION SELECT name FROM customers ORDER BY name;
  
  ![alt text]()
 
