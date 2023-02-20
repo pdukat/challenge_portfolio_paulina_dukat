@@ -275,7 +275,13 @@ SELECT customers.name, customers.surname, movies.title FROM sale INNER JOIN cust
 
 **15. W celu anonimizacji danych, chcesz stworzyć pseudonimy swoich klientów. - Dodaj kolumnę o nazwie ‘pseudonym’ do tabeli customer,- Wypełnij kolumnę w taki sposób, aby pseudonim stworzył się z dwóch pierwszych liter imienia i ostatniej litery nazwiska. Np. Natalie Pilling → Nag.**
 
-
+ALTER TABLE customers ADD COLUMN pseudonim varchar(3);
+UPDATE customers set pseudonim = 'Ols' WHERE customer_id = 1;
+UPDATE customers set pseudonim = 'Kal' WHERE customer_id = 2;
+UPDATE customers set pseudonim = 'Anr' WHERE customer_id = 3;
+UPDATE customers set pseudonim = 'Par' WHERE customer_id = 4;
+UPDATE customers set pseudonim = 'Mao' WHERE customer_id = 5;
+UPDATE customers set pseudonim = 'Nag' WHERE customer_id = 6; 
 
 ![alt text]()
 
