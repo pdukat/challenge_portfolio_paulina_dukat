@@ -269,7 +269,7 @@ update customers set email = "pati@mail.com" where customer_id = '4'
 
 **14. Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**
 
-
+SELECT customers.name, customers.surname, movies.title FROM sale INNER JOIN customers on sale.customer_id=customers.customer_id INNER JOIN movies ON movies.movie_id=sale.movie_id
  
  ![alt text]()
 
