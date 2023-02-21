@@ -309,3 +309,7 @@ SELECT actors.actor_id, actors.name, actors.surname, movies.title FROM actors, m
 INSERT INTO customers (customer_id, name, surname, email, pseudonim) VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
  
  ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/565d4c48864c06cead406a4792e3a1d3d813edac/t6_20.JPG)
+ 
+ ### Subtask 2
+
+ ![alt text]()
