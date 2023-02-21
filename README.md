@@ -316,9 +316,6 @@ INSERT INTO customers (customer_id, name, surname, email, pseudonim) VALUES ('7'
 
 ### Subtask 3
 
-![](https://media.giphy.com/media/Tj4fL2QuhEYSJBdrKt/giphy.gif)
-
-
-[PORTFOLIO - KLIK](https://github.com/pdukat/PaulinaDukat-PORTFOLIO.git)
+![](https://media.giphy.com/media/O1782Dz7UIITFApqZJ/giphy.gif)  [PORTFOLIO - KLIK](https://github.com/pdukat/PaulinaDukat-PORTFOLIO.git)
 
 
