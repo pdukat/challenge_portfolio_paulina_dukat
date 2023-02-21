@@ -312,4 +312,4 @@ INSERT INTO customers (customer_id, name, surname, email, pseudonim) VALUES ('7'
  
  ### Subtask 2
 
- ![alt text]()
+ ![alt text](https://github.com/pdukat/challenge_portfolio_paulina_dukat/blob/ad63e9b6d1a9930eb10de304185ab41d6d907589/test.png)
